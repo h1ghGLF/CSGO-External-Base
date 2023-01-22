@@ -8,7 +8,7 @@
 - Has a good project structure
 
 # Usable for any game
-To change the game you read/write the memory from/to you just need to to change "csgo.exe" in main to any game name.
+To change the game you read/write the memory from/to you just need to change "csgo.exe" in main.cpp file to any game name.
 
 ```cpp
 Memory mem{ "csgo.exe" }; //change to any game name
